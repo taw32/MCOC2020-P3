@@ -21,3 +21,5 @@ Despues de agregar la linea anterior al codigo y usando los mismos parámetros d
  ![Grafico](Grafico_E3_Evolución_Termica.png)
 
 Al analizar el gráfico se puede ver como al final la solución converge ya que las últimas curvas son rectas practicamente estables.
+
+Las condiciones de borde natural de el tipo estudiado hasta ahora, pueden ser utilizadas cuando se tiene continuidad de piezas de hormigón, es decir cando se tiene una piexa con ciertas temperaturas adyacente a otra con temperaturas distintas. De esta forma se evitará tener un salto en las temperaturas ya que las tangemtes coincidiran.  
