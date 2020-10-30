@@ -18,4 +18,4 @@ De esta forma obtenemos un nuevo stencil de diferencias finitas (pequeño) que n
 
 Despues de agregar la linea anterior al codigo y usando los mismos parámetros de los ejemplos de clases. Se realizo el gráfico con un paso de integración dt = 2s y curvas de evolución térmica cada 1000 pasos hasta llegar a 50000 pasos. El grafico se presenta a continuación:
 
- ![Grafico](Entrega3_Proyecto3.png)
+ ![Grafico](Grafico_E3_Evolución_Termica.png)
