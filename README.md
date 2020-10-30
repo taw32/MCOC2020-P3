@@ -15,3 +15,7 @@ Al reordenar la ecuación:
 <a href="https://www.codecogs.com/eqnedit.php?latex=u\left&space;[&space;k,0&space;\right&space;]=&space;-5&space;&plus;&space;u\left&space;[&space;k,1&space;\right&space;]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u\left&space;[&space;k,0&space;\right&space;]=&space;-5&space;&plus;&space;u\left&space;[&space;k,1&space;\right&space;]" title="u\left [ k,0 \right ]= -5 + u\left [ k,1 \right ]" /></a>
 
 De esta forma obtenemos un nuevo stencil de diferencias finitas (pequeño) que nos permite completar el valor faltante.
+
+Despues de agregar la linea anterior al codigo y usando los mismos parámetros de los ejemplos de clases. Se realizo el gráfico con un paso de integración dt = 2s y curvas de evolución térmica cada 1000 pasos hasta llegar a 50000 pasos. El grafico se presenta a continuación:
+
+ ![Grafico](Entrega3_Proyecto3.png)
